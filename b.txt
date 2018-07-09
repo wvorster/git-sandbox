@@ -1,1 +1,4 @@
 this is file b
+
+
+added more code to test the diff command
